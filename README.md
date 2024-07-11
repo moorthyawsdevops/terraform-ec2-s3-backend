@@ -1,1 +1,2 @@
-# terraform-ec2-s3-backend
+Terraform Project: Launch EC2 Instance with S3 Remote Backend
+This project demonstrates how to use Terraform to launch an EC2 instance in AWS and configure an S3 bucket as a remote backend for storing the Terraform state file.
